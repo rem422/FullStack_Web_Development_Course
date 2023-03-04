@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Stalinist+One&display=swap');
+
+h1 {
+    text-align: center;
+    font-family: 'Stalinist One', cursive;
+    font-size: 1.5rem;
+}
+
+.art {
+    margin: auto;
+}
+
+td {
+    height: 200px;
+    width: 150px;
+    border: 6px solid white;
+}
+
+#one {
+    background: #000814;
+}
+
+#two {
+    background: #001D3D;
+}
+
+#three {
+    background: #003566;
+}
+
+#four {
+    background: #FFC300;
+}
+
+#five {
+    background: #FFD60A;
+}
+

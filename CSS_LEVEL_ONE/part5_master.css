@@ -1,0 +1,12 @@
+/* Specificity */
+li {
+    color: red;
+}
+
+.topItems {
+    color: blue;
+}
+
+#two {
+    border: 3px solid black;
+}
