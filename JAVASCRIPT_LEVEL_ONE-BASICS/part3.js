@@ -1,4 +1,4 @@
-let pounds = prompt("What is the weight in pounds (lbs)? ");
-let kg = 0.454;
-alert("That is: " + pounds * kg + " kilograms");
+let pounds = prompt("What is the weight in(lbs)? ");
+let kg = pounds * 0.454;
+alert("That is: " + kg + " kilograms");
 console.log("Conversion Completed");
